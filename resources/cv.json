@@ -1,0 +1,77 @@
+{
+	"experience":[
+		{
+			"title":"Software Engineer",			
+			"employer":"Solnet Solutions Ltd",
+			"location":{"city":"Wellington","country":"NZ"},
+			"start":{"month":"June","year":"2013"},
+			"end":{"month":"May","year":"2015"},
+			"roles":[
+				{
+					"first":"Did proactive and responsive maintenance for a number of large businesses.",
+					"second":"Wrote documentation and developed technical education lessons.",
+					"third":"Developed and maintained responsive web applications for clients."
+				}
+			]
+		},
+		{
+			"title":"Ukulele Instructor",			
+			"employer":"Chalkle",
+			"location":{"city":"Wellington","country":"NZ"},
+			"start":{"month":"February","year":"2012"},
+			"end":{"month":"May","year":"2015"},
+			"roles":[
+				{
+					"first":"Developed weekly classes for new and experienced musicians.",
+					"second":"Taught improvisation, music theory, and music composition."
+				}
+			]
+		},
+		{
+			"title":"Full-Stack Software Developer",			
+			"employer":"Trade Me",
+			"location":{"city":"Wellington","country":"NZ"},
+			"start":{"month":"July","year":"2015"},
+			"end":{"month":"Present","year":""},
+			"roles":[
+				{
+					"first":"Supported three websites in whatever capacity necessary.",
+					"second":"Diagnosed and fixed bugs and malfunctions.",			
+					"third":"Wrote beautiful springs of documentation for unknown system concepts."
+				}
+			]
+		},		
+	],
+
+	"education":[
+		{
+			"degree":"Bachelor of Science",
+			"major":"Computer Science",
+			"minor":"Psychology",
+			"university":"Missouri University of Science and Technology",			
+			"location":{"city":"Missouri","country":"USA"},
+			"start":{"month":"August","year":"2007"},
+			"end":{"month":"May","year":"2011"}
+		},
+		{
+			"type":"Certificate",
+			"name":"Oracle Java SE7 Programmer Certification"
+			"date":{"month":"August","year":"2013"}
+		}
+	],
+
+	"skills":[
+		{
+			"type":"programming",
+			"name":[
+				{"language":"ASP.NET"},
+				{"language":"C++"},
+				{"language":"C#"},
+				{"language":"C"},
+				{"language":"Java"},
+				{"language":"Python"},
+				{"language":"Ruby"},
+			],
+		}
+	]
+}

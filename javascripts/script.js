@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $('div').click(function() {
-        $(this).effect('slide');
-    });
+
+    var obj = JSON.parse("../resources/cv.json");
+    console.log(obj);
 });
