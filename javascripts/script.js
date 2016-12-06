@@ -1,5 +1,3 @@
-$(document).ready(function() {
-
-    var obj = JSON.parse("../resources/cv.json");
-    console.log(obj);
-});
+  $.getJSON("./resources/cv.json", function(json) {
+    console.log(json); // this will show the info it in firebug console
+  });
