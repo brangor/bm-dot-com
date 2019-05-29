@@ -4,3 +4,9 @@ $('.carousel-banners').carousel({
 $('.carousel-featuresets').carousel({
   interval: false
 })
+$('.carousel-stories').carousel({
+  interval: false
+})
+$('.carousel-footers').carousel({
+  interval: false
+})
