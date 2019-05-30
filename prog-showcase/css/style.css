@@ -13,11 +13,17 @@
 div.showcase-section {
     width: 60%;
     display: inline-block;
-    float:left;
+    float: left;
 }
 
 #image-specs-table {
     display: inline-block;
     float: right;
     width: 38%;
+}
+
+div.showcase-section-mobile {
+    width: 38%;
+    display: inline-block;
+    float: right;
 }
