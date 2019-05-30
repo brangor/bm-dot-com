@@ -10,4 +10,4 @@ $('.carousel-footers-mobile').carousel();
 
 $(".carousel-control-prev").click(function(){
     $(".carousel-banners-mobile").carousel("prev");
-}
+});
