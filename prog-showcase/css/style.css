@@ -9,3 +9,15 @@
 .showcase img {
   width: 300px;
 }
+
+div.showcase-section {
+    width: 60%;
+    display: inline-block;
+    float:left;
+}
+
+#image-specs-table {
+    display: inline-block;
+    float: right;
+    width: 38%;
+}
