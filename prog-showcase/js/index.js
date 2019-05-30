@@ -1,12 +1,4 @@
-$('.carousel-banners').carousel({
-  interval: false
-})
-$('.carousel-featuresets').carousel({
-  interval: false
-})
-$('.carousel-stories').carousel({
-  interval: false
-})
-$('.carousel-footers').carousel({
-  interval: false
-})
+$('.carousel-banners').carousel()
+$('.carousel-featuresets').carousel()
+$('.carousel-stories').carousel()
+$('.carousel-footers').carousel()
