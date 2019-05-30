@@ -1,3 +1,5 @@
 $(".carousel-control-prev").click(function(){
-    $(".carousel-banners-mobile").carousel("prev");
+    $('.alert').alert()
+    /*$('".carousel-banners-desktop").carousel("prev");'*/
 });
+
