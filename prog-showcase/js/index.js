@@ -1,5 +1,5 @@
 $(".carousel-control-prev").click(function(){
-    $('.alert').alert()
+    alert('You clicked previous!');
     /*$('".carousel-banners-desktop").carousel("prev");'*/
 });
 
