@@ -10,20 +10,33 @@
   width: 300px;
 }
 
-div.showcase-section {
-    width: 60%;
-    display: inline-block;
-    float: left;
+div#desktop-showcase {
+  height:400px;
+  width:100%;
+  border:1px;
+  overflow:auto;
+}
+
+div#mobile-showcase {
+  height:200px;
+  width: 46%;
+  border:1px;
+  overflow:auto;
+  float: right;
 }
 
 #image-specs-table {
     display: inline-block;
-    float: right;
-    width: 38%;
+    float:left;
+    width: 46%;
+    height: ;
 }
 
-div.showcase-section-mobile {
-    width: 38%;
+#descriptions {
     display: inline-block;
-    float: right;
+    width: 100%;
+}
+
+.zonked {
+  display: none;
 }
